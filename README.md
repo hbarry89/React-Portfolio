@@ -6,7 +6,7 @@
 
 ## Usage
 
-- [Click here](*) to navigate to the live link of this repository.
+- [Click here](https://hbarry89.github.io/React-Portfolio/) to navigate to the live link of this repository.
 
 ---------------------------
 
