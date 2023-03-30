@@ -26,6 +26,7 @@
 ### Assets :sparkles:
 
 - For a list of all [npm](https://www.npmjs.com/) packages used in this application, please refer to the *package.json* file.
+- Logo made by [SVG Logo Maker](https://github.com/hbarry89/SVG-Logo-Maker)
 
 ### Applications Used :gear:
 - VS Code
