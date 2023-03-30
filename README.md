@@ -20,6 +20,7 @@
 
 ### Resources :books:
 - Bootcamp Materials
+- Unit 20: Activity 24
 - Demonstration by TA in class
 - Tutor
 
