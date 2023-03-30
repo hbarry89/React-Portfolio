@@ -3,10 +3,16 @@ import './style.css';
 
 function Header() {
   return (
-    <div className = "header">
+    <header>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello!</p>
-    </div>
+        <h1>Huda Barry</h1>
+        <ul>
+          <li>About Me</li>
+          <li>Portfolio</li>
+          <li>Contact</li>
+          <li>Resume</li>
+        </ul>
+    </header>
   );
 }
 
