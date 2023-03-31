@@ -1,0 +1,9 @@
+.img {
+    border-radius: 20px;
+    border: gray solid 2px;
+    padding: 10px;
+}
+
+a:hover {
+    color: gray;
+}

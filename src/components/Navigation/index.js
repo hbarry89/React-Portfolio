@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import resume from '../../assets/Resume.png'
+import resume from '../../assets/HBResume.pdf'
 
 function Navigation({ currentPage, handlePageChange }) {
   return (
