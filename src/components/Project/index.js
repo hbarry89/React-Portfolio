@@ -3,9 +3,10 @@ import './style.css';
 
 function Project() {
   return (
-    <article>
+    <section>
         <p>Projects</p>
-    </article>
+hello
+    </section>
   );
 }
 

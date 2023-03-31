@@ -1,9 +1,10 @@
 import React from 'react';
+import './style.css';
+
 export default function Contact() {
   return (
     <div>
       <h1>Contact</h1>
-      <p>Contact Form:</p>
       <form>
         <label htmlFor="name">Name:</label><br />
         <input type="text" id="name" name="name" value="" /><br />

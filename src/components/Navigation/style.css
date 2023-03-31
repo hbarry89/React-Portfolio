@@ -1,9 +1,13 @@
-nav {
-    background-color: gray;
-}
-
 li {
     display: inline;
     margin: 10px;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    margin: 10px;
+}

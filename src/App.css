@@ -1,3 +1,8 @@
+* {
+  background-color: aliceblue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .App {
   text-align: center;
 }

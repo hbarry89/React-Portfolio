@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css';
+import resume from '../../assets/Resume.png'
 
 function Navigation({ currentPage, handlePageChange }) {
   return (
@@ -31,7 +32,7 @@ function Navigation({ currentPage, handlePageChange }) {
           Contact
         </a>
       </li>
-      <li><a href="./assets/Resume.png" target="_blank">Resume</a></li>
+      <li><a href={resume} target="_blank">Resume</a></li>
     </ul>
   );
 }
