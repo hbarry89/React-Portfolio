@@ -2,7 +2,6 @@ import React from 'react';
 import github from '../../assets/github.png'
 import linkedin from '../../assets/linkedin.png'
 import stackoverflow from '../../assets/stackoverflow.png'
-import './style.css';
 
 function Footer() {
   return (

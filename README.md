@@ -12,7 +12,15 @@
 
 - Screenshots:
 
-<img src="./demo-images/demo1.png" width="300" height="300">
+<img src="./demo-images/demo1.png" width="400" height="200">
+
+---------------------------
+
+<img src="./demo-images/demo2.png" width="400" height="200">
+
+---------------------------
+
+<img src="./demo-images/demo3.png" width="400" height="200">
 
 ---------------------------
 
