@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css';
+import project0 from '../../assets/project0.png'
 import project1 from '../../assets/project1.png'
 import project2 from '../../assets/project2.png'
 import project3 from '../../assets/project3.png'
@@ -11,7 +12,10 @@ function Project() {
   return (
     <section>
       <h2>Projects:</h2>
-      <h4>Text Editor</h4>
+      <h4>Gaming Geeks</h4>
+      <img className="img" src={project0} alt="project" width="300" height="200"></img><br />
+      <a href="https://blooming-lake-18705.herokuapp.com/" target="_blank" rel="noreferrer">Live Link</a> | <a href="https://github.com/irkag22/Gaming-Geeks" target="_blank" rel="noreferrer">Repository</a><br />
+      <br />
       <img className="img" src={project1} alt="project" width="300" height="200"></img><br />
       <a href="https://aqueous-anchorage-39063.herokuapp.com/" target="_blank" rel="noreferrer">Live Link</a> | <a href="https://github.com/hbarry89/Text-Editor" target="_blank" rel="noreferrer">Repository</a><br />
       <br />
